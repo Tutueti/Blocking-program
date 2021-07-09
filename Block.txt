@@ -1,6 +1,4 @@
 api.segment.io
-beacons-dual-808847889.us-east-1.elb.amazonaws.com
-content.businessinfoline.com
 dntcl.qualaroo.com
 ellation.map.fastly.net
 fy.v.vrv.co
