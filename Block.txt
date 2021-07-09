@@ -1,3 +1,4 @@
+api.segment.io
 beacons-dual-808847889.us-east-1.elb.amazonaws.com
 content.businessinfoline.com
 dntcl.qualaroo.com
@@ -5,8 +6,7 @@ ellation.map.fastly.net
 fy.v.vrv.co
 pcva3.manifest.auditude.com
 scone-pa.clients6.google.com
+segment.io
 static.vrv.co
 tile-service.weather.microsoft.com
 vrv-eec.etp-prod.com
-api.segment.io
-segment.io
